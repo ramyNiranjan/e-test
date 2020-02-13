@@ -174,5 +174,5 @@ function populateDom(data=null,total=null,id=null){
 }
 
 cartCheckout.addEventListener('click',()=>{
-  window.location.href='../dist/checkout.html'
+  window.location.href='../checkout.html'
 })
